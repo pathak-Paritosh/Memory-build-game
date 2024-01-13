@@ -1,8 +1,8 @@
 ### To use this project
 1. clone it
 2. open it in some terminal(or open the project folder in vs code, since vs code terminal will be integrated with the project then).
-3. Write the command "npm install" to install all dependencies.
-4. Write the command "npm start" to see the project.
+3. Write the command **npm install** to install all dependencies.
+4. Write the command **npm start** to see the project.
 #### I have deployed it on netlify, Play it [here](https://aesthetic-gingersnap-4c0430.netlify.app/).
 
 
